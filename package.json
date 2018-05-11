@@ -1,0 +1,9 @@
+{
+  "name": "learn-elasticsearch",
+  "version": "1.0.0",
+  "author": "Kitisak Chaengsiri",
+  "license": "MIT",
+  "dependencies": {
+    "elasticsearch": "^14.2.2"
+  }
+}
